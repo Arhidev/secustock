@@ -1,2 +1,2 @@
 # SecuStock
-Ceci est la version windows de Secu Stock instalable sur Pc ou Bureau.
+SecuStock.exe connecté, SecuStock.dmg off line instalable sur Pc ou Bureau.
