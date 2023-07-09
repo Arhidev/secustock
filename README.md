@@ -1,3 +1,3 @@
-# SecuStock - logiciel de gestion multi-fonctions
-Secu Stock.exe Windowns connecté.
-MacOS connecté https://cutt.ly/u49yuyJ (ouvrir sur mac).
+# SecuStock - logiciel de gestion multi-fonctions Windows et Macbook (Pc bureau) avec internet
+Pour la version sans internet, me contacteer : +225 0153441343 (WhatsApp)
+
